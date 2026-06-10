@@ -13,7 +13,7 @@ RED = (255, 50, 50)
 BLACK = (0, 0, 0)
 
 gravity = 0.5
-launch_angle = 89
+launch_angle = 70
 power = 24
 ball_pos = [50, 550]
 velocity = [0, 0]
